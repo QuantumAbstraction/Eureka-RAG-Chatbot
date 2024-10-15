@@ -1,0 +1,6 @@
+/* custom.css */
+@layer utilities {
+  .bg-blur {
+    backdrop-filter: blur(8px); /* Adjust the pixel value to your desired blur strength */
+  }
+}
